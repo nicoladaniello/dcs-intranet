@@ -1,20 +1,21 @@
-# PHP module final exam solution
+# DCS Intranet
 
-- Web programming using PHP
-- 5 August 2018
-- FMA DEVELOPMENT LOG
+Prototype of the University DCS intranet site.
 
-Nicola D&#39;Aniello
+This is a solution to The PHP module final exam of my CS degree.
+
+- module: **Web programming using PHP**
+- date: **5 August 2018**
+- author: [Nicola D'Aniello](https://github.com/nicoladaniello)
 
 ## Introduction
 
-This is my solution to the PHP module final exam for my CS degree.
-The exam consisted in creating a secure intranet home page in PHP and HTML for the unversity department of CS.
+The exam consists in creating a prototype of the university's DCS website, with a private intranet region.
+The prototype implements authentication, authorisation and a custom database implementation (as no RDBMS or other common solutions where authorised) where new users can be added by an admin.
 
-The requirements can be found in the _requirements.pdf_ file.
+The full list of requirements can be found in the [specifications.pdf](specifications.pdf) file.
 
-The final project is available online at:
-[http://titan.dcs.bbk.ac.uk/~ndanie03/p1fma/index.php](http://titan.dcs.bbk.ac.uk/~ndanie03/p1fma/index.php)
+The final project is available online at [this link](http://titan.dcs.bbk.ac.uk/~ndanie03/p1fma/index.php), you can use username **admin** and password **dcsadmin01** to login as administrator.
 
 ### Files Structure
 
